@@ -1,0 +1,11 @@
+/* Reset or global styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e6fffa;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
