@@ -1,16 +1,63 @@
-<<<<<<< HEAD
-# health-wellness-app
-=======
-# React + Vite
+# Web Development Project 1 - Wellness Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Siva Macharla**
 
-Currently, two official plugins are available:
+This web app: **is a Health & Wellness dashboard that promotes healthy living through a visual display of 10 essential wellness activities. It helps users stay motivated and mindful about physical, mental, and emotional wellbeing.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **6 hours** spent in total
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 3980551 (added 10 cards)
+The following **required** functionality is completed:
+
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed 
+  - [x] The cards are displayed in an organized format (in a responsive grid layout)
+  - [x] Each card includes information about the wellness activity
+
+## Optional Features
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format (via responsive grid)
+
+## Additional Features
+
+* [x] Custom icons and images for each wellness card
+* [x] Clean, modern UI that matches the sample "Food Truck Favorites" visual style
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://i.imgur.com/yourgif.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
+<!-- Replace this with the actual Imgur link ending in .gif -->
+GIF created with ScreenToGif (Windows)
+
+## Notes
+
+- The most challenging part was aligning the layout to match the design reference.
+- Making the grid responsive for both mobile and desktop took some experimentation with Tailwind CSS.
+- Learned to integrate visual assets and improve component reuse.
+
+## License
+
+    Copyright 2025 Siva Macharla
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
