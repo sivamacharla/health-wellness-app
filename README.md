@@ -35,9 +35,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/yourgif.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/qSHGg0l.gif)
 
-<!-- Replace this with the actual Imgur link ending in .gif -->
 GIF created with ScreenToGif (Windows)
 
 ## Notes
